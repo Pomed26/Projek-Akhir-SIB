@@ -21,5 +21,5 @@ mengembangkan model pembelajaran mesin yang dapat digunakan oleh lembaga perbank
 
 Catatan: Data yang digunakan dalam proyek ini telah diproses. Tidak ada informasi pribadi atau rahasia perusahaan yang diungkapkan.
 
-Link Kaggle Credit Card :
+Link Kaggle Credit Card Dataset :
 https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
