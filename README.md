@@ -1,7 +1,7 @@
 # Projek-Akhir-SIB
 
 Deskripsi Repositori: 
-
+ 
 Nama Proyek: Bank Fraud Detection (Deteksi Kecurangan Bank) dengan Machine Learning: 
 
 Tujuan proyek adalah untuk mengembangkan model pengajaran mesin yang berguna untuk mendeteksi kecurangan dalam transaksi perbankan. Data yang digunakan terdiri dari transaksi kartu kredit yang dilakukan oleh pemegang kartu di Eropa mulai September 2013.
